@@ -1,5 +1,9 @@
 # bazel
-Bazel compiled for raspberry pi zero
+Bazel compiled for RASPBERRY PI ZERO
+
+Here you can find the compiled file:
+https://www.dropbox.com/s/ki5iux565m3ea17/bazel%20raspberry%20pi%20zero.gz?dl=0
+
 
 Here in this repository you find the binary already compiled
 
